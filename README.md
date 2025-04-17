@@ -33,10 +33,27 @@ Este es un sitio web moderno, minimalista y responsive para una marca de ropa co
 ```bash
 git clone https://github.com/Puchungu/FKN-Rebels.git
 cd FKN-Rebels
-```bash
+```
 
 ### 2. Instalar dependencias de PHP (Laravel)
 ```bash
 composer install
+```
+
+### 3. Instalar dependencias de Node.js (Vite + Tailwind)
 ```bash
+npm install
+```
+
+### 5. Ejecutar el servidor de desarrollo de Laravel
+```bash
+php artisan serve
+```
+
+### 6. Ejecutar Vite para el frontend
+```bash
+npm run dev
+```
+
+
 
