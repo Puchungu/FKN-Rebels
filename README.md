@@ -45,12 +45,12 @@ composer install
 npm install
 ```
 
-### 5. Ejecutar el servidor de desarrollo de Laravel
+### 4. Ejecutar el servidor de desarrollo de Laravel
 ```bash
 php artisan serve
 ```
 
-### 6. Ejecutar Vite para el frontend
+### 5. Ejecutar Vite para el frontend
 ```bash
 npm run dev
 ```
