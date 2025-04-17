@@ -35,6 +35,7 @@ git clone hhttps://github.com/Puchungu/FKN-Rebels.git
 cd fkn-rebels
 
 ### 2. Instalar dependencias de PHP (Laravel)
+```bash
 Instalar dependencias de PHP (Laravel)
 
 ### 3. Instalar dependencias de Node (Vite + Tailwind)
