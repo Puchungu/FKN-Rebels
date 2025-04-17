@@ -1,4 +1,4 @@
-# FKN REBELS
+# 🧢 FKN REBELS
 
 ¡Bienvenido al proyecto **FKN REBELS**!  
 Este es un sitio web moderno, minimalista y responsive para una marca de ropa conceptual, diseñado con HTML, Tailwind CSS, Laravel y Vite.
@@ -17,33 +17,26 @@ Este es un sitio web moderno, minimalista y responsive para una marca de ropa co
 
 ## 🛠️ Tecnologías Usadas
 
-- **Laravel 10**  
-- **Vite**  
-- **Tailwind CSS**  
-- **HTML5 / CSS3 / JavaScript**  
-- **Google Fonts**  
-- **SVG para íconos y logos**
+- Laravel 10  
+- Vite  
+- Tailwind CSS  
+- HTML5 / CSS3 / JavaScript  
+- Google Fonts  
+- SVG para íconos y logos
 
 ---
 
-## ⚙️ Instalación y configuración del proyecto
+#   # ⚙️ Instalación y configuración del proyecto
 
 ### 1. Clonar el repositorio
 
 ```bash
-git clone hhttps://github.com/Puchungu/FKN-Rebels.git
-cd fkn-rebels
+git clone https://github.com/Puchungu/FKN-Rebels.git
+cd FKN-Rebels
+```bash
 
 ### 2. Instalar dependencias de PHP (Laravel)
 ```bash
-Instalar dependencias de PHP (Laravel)
-
-### 3. Instalar dependencias de Node (Vite + Tailwind)
-npm install
-
-### 4. Correr el servidor de Laravel
-php artisan serve
-
-### 5. Ejecutar Vite en modo desarrollo
-npm run dev
+composer install
+```bash
 
