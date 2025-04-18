@@ -1,0 +1,25 @@
+
+.svg-full {
+    width: 100%;
+    z-index: 1;
+    position: absolute;
+}
+
+.logo-text {
+    fill: var(--primary-color);
+    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.hero-img{
+    display: flex;
+    z-index: 2;
+}
+
+.hero-img img{
+    max-width: 50%;
+    height: auto;
+}
+
+

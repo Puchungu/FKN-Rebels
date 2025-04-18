@@ -24,22 +24,22 @@ nav {
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    position: sticky;
     background-color: white;
-    z-index: 1000;
 }
 
 .nav-list {
     list-style: none;
     display: flex;
-    gap: 2.5rem;
-    font-size: 1.3rem;
+    gap: 1rem;
+    font-size: 1rem;
 }
 
 .logo {
     fill: var(--primary-color);
     font-size: 2rem;
 }
+
+
 
 .icono-user {
     width: 35px;
