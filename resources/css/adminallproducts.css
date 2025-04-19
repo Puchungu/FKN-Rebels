@@ -1,0 +1,23 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 0.75rem;
+}
+
+th {
+    background-color: #482922; 
+    color: white;
+    font-weight: 600;
+}
+
+td {
+    color: #482922; 
+}

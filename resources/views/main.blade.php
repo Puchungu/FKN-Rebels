@@ -10,7 +10,6 @@
 
 <body>
     @include('header')
-
     <section class="hero-main">
         <svg class="svg-full" viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg">
             <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="logo-text">
@@ -22,8 +21,6 @@
             <img src="https://milfshakes.es/cdn/shop/files/MURDER_tee_chica_back_4_WEB.jpg?v=1736519076">
         </section>
     </section>
-
-
     @include('footer')
 </body>
 </html>
